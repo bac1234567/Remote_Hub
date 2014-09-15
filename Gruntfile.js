@@ -11,7 +11,7 @@ module.exports = function(grunt) {
     concat: {
       build: {
         files: {
-          'lib/<%= pkg.name %>.js': [
+          'lib/config.js': [
             'src/config-un.js',
             'src/words-un.js'
           ]
@@ -31,7 +31,7 @@ module.exports = function(grunt) {
 
   zip: {
    
-	'word_finder.zip' : ['lib/words.js', 'lib/word_finder.js'],
+	'/home/bala/.jenkins/jobs/Word_Finder_Build/workspace/lib/word_finder.zip' : ['lib/words.js', 'lib/config.js'],
 
       //src: ['src/words-un.js'],
       //dest: 'widgets.zip'
