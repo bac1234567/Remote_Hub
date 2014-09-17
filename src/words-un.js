@@ -37,7 +37,6 @@ exports.search = search;
 
 var dictionary = [
   "AA",
-  "ADITYA",
   "AAH",
   "AAHED",
   "AAHING",
