@@ -31,7 +31,7 @@ module.exports = function(grunt) {
 
   zip: {
    
-	'/home/bala/.jenkins/jobs/Word_Finder_Build/workspace/lib/word_finder.zip' : ['lib/words.js', 'lib/config.js'],
+	'/root/.jenkins/jobs/Word_Finder_Build/workspace/lib/word_finder.zip' : ['lib/words.js', 'lib/config.js'],
 
       //src: ['src/words-un.js'],
       //dest: 'widgets.zip'
