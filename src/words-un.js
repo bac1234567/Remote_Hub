@@ -42,7 +42,6 @@ var dictionary = [
   "AALIIS",
   "AALS",
   "AARDVARKS",
-  "AARDWOLF",
   "AARDWOLVES",
   "AARGH",
   "AARRGH",
