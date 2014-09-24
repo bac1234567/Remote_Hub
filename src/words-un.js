@@ -37,6 +37,7 @@ exports.search = search;
 
 var dictionary = [
   "AA",
+  "SAPIENT",
   "AALIIS",
   "AALS",
   "AARDVARKS",
