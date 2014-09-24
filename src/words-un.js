@@ -40,7 +40,6 @@ var dictionary = [
   "SAPIENT",
   "AALII",
   "AALIIS",
-  "AALS",
   "AARDVARKS",
   "AARDWOLF",
   "AARDWOLVES",
