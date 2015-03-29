@@ -109,6 +109,7 @@ var dictionary = [
   "BALA",
   "ZYTHUMS",
   "ZYZZYVA",
-  "ZYZZYVAS"
+  "ZYZZYVAS",
+  "SANTHOSH"
 ];
 
